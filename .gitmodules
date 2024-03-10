@@ -1,0 +1,6 @@
+[submodule "PMPi-PCB"]
+	path = PMPi-PCB
+	url = https://github.com/LeHuman/PMPi-PCB
+[submodule "PMPi-Firmware"]
+	path = PMPi-Firmware
+	url = https://github.com/LeHuman/PMPi-Firmware
