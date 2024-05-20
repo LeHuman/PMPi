@@ -8,7 +8,7 @@
 
 ![PMPi-Logo](<PMPi-Logo/PMPi Logo Full.png>)
 
-[About](#about) - [Key Features](#key-features) - [Related](#related) - [License](#license)
+[About](#about) - [Key Features](#key-features) - [Child Repositories](#child-repositories) - [Related](#related) - [License](#license)
 
 ## Status
 
@@ -35,7 +35,7 @@ This project has mainly served as an exercise in hardware and firmware developme
 
 - Wireless
   - Wireless capability is enabled by using a Raspberry Pi Pico W
-  - Web interface exposed on local network powered by [mongoose](https://mongoose.ws/)
+  - Web interface exposed on a local network, powered by [mongoose](https://mongoose.ws/)
 - Open Source
   - You are reading the open sourcedness of all this
 - Obsolete on Arrival $-$ *new*⭐
@@ -57,6 +57,11 @@ This project has mainly served as an exercise in hardware and firmware developme
 
 - Twilight-Logic/[AR488](https://github.com/Twilight-Logic/AR488)
 - pchernikhowsky/[AVR488](https://github.com/pchernikhowsky/AVR488)
+
+## Child Repositories
+
+- [PMPi-Firmware](https://github.com/LeHuman/PMPi-Firmware)
+- [PMPi-PCB](https://github.com/LeHuman/PMPi-PCB)
 
 ## License
 
