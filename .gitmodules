@@ -4,3 +4,6 @@
 [submodule "PMPi-Firmware"]
 	path = PMPi-Firmware
 	url = https://github.com/LeHuman/PMPi-Firmware
+[submodule "PMPi-Case"]
+	path = PMPi-Case
+	url = https://github.com/LeHuman/PMPi-Case
