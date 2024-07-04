@@ -13,7 +13,7 @@
 ## Status
 
 **`Work In progress`**
-> *Focus has mainly been on making hardware - May 2024*
+> *Working on Firmware - July 2024*
 
 ## About
 <!-- DESCRIPTION START -->
@@ -62,6 +62,7 @@ This project has mainly served as an exercise in hardware and firmware developme
 
 - [PMPi-Firmware](https://github.com/LeHuman/PMPi-Firmware)
 - [PMPi-PCB](https://github.com/LeHuman/PMPi-PCB)
+- [PMPi-Case](https://github.com/LeHuman/PMPi-Case)
 
 ## License
 
