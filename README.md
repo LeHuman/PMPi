@@ -4,14 +4,14 @@
 <!-- KEYWORDS: Controller, Raspberry Pi Pico W, Embedded, Hardware, Firmware -->
 <!-- LANGUAGES: C, C++, Python -->
 <!-- TECHNOLOGY: Mongoose Embedded Web Server, RESTful API, Altium -->
-<!-- STATUS: Work In Progress -->
 
+<!-- LOGO -->
 ![PMPi-Logo](<PMPi-Logo/PMPi Logo Full.png>)
 
 [About](#about) - [Key Features](#key-features) - [Child Repositories](#child-repositories) - [Related](#related) - [License](#license)
 
 ## Status
-
+<!-- STATUS -->
 **`Work In progress`**
 > *Working on Firmware - July 2024*
 
@@ -59,11 +59,11 @@ This project has mainly served as an exercise in hardware and firmware developme
 - pchernikhowsky/[AVR488](https://github.com/pchernikhowsky/AVR488)
 
 ## Child Repositories
-
+<!-- CHILDREN START -->
 - [PMPi-Firmware](https://github.com/LeHuman/PMPi-Firmware)
 - [PMPi-PCB](https://github.com/LeHuman/PMPi-PCB)
 - [PMPi-Case](https://github.com/LeHuman/PMPi-Case)
-
+<!-- CHILDREN END -->
 ## License
 
 MIT
